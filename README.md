@@ -1,1 +1,5 @@
 "# MOALNE" 
+"#MOALNE stands for: " 
+"@Morris" 
+"@Allan" 
+"& Nelly" 
